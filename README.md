@@ -11,17 +11,6 @@ A fully responsive e-commerce web application built using React. Users can:
 
 This project demonstrates modern frontend development practices, including state management, dynamic routing, and responsiveness.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Setup Instructions](#setup-instructions)
-4. [Usage](#usage)
-5. [Screenshots](#screenshots)
-6. [Future Enhancements](#future-enhancements)
-7. [Contributions](#contributions)
-8. [License](#license)
-
 ## Features
 
 - **Fully Responsive Design**: Optimized for all devices (mobile, tablet, desktop).
